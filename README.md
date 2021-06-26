@@ -21,7 +21,7 @@ Time management skills and task delegation as we were forced to work rapidly whi
 Begin prototyping to serve as proof of concepts. Work on completing the proposed portable wind turbines.
 
 # For more information click the link:
-https://sites.google.com/pdsb.net/project-aether/home
+[website](https://sites.google.com/pdsb.net/project-aether/home)
 
 # Built With
 arduino
@@ -32,4 +32,4 @@ inventor
 powerpoint
 
 # Devpost Link
- https://devpost.com/software/project-aether
+[devpost](https://devpost.com/software/project-aether)
